@@ -3,6 +3,7 @@
     <nav>
       <router-link to="/">Home</router-link> |
       <router-link to="/catalogue">Catalogue</router-link> |
+      <router-link to="/staff">Staff Picks</router-link> |
       <router-link to="/genre">Browse by Genre</router-link> |
       <router-link to="/search">Search</router-link> |
       <router-link to="/cart">Cart ({{numItems}})</router-link> |

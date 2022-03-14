@@ -5,19 +5,19 @@
 
     </div>
     
-    <BookList :books="books" />
+    <CatalogueList :books="books" />
 
   </div>
 </template>
 
 <script>
-    import BookList from "../components/BookList.vue"
+    import CatalogueList from "../components/CatalogueList.vue"
 
     export default {
         name: 'catalogue-catalogue',
 
         components: {
-            BookList
+            CatalogueList
         },
 
         computed: {

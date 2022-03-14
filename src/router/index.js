@@ -6,6 +6,7 @@ import GenreView from '../views/GenreView.vue'
 import SearchView from '../views/SearchView.vue'
 import CartView from '../views/CartView.vue'
 import AboutView from '../views/AboutView.vue'
+import StaffView from '../views/StaffView.vue'
 
 Vue.use(VueRouter)
 
@@ -19,6 +20,11 @@ const routes = [
     path: '/catalogue',
     name: 'catalogue',
     component: CatalogueView
+  },
+  {
+    path: '/staff',
+    name: 'staff',
+    component: StaffView
   },
   {
     path: '/genre',
