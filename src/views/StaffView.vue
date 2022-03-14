@@ -82,6 +82,7 @@
     .whole {
         padding-top: 20px;
         background-color: #DE6E4B;
+        padding-bottom: 20px;
     }
     .wrapper {
         display: flex;
