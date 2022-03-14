@@ -11,7 +11,7 @@ let book = [{
     title: "Caraval",
     price: "$11.99",
     author: "Stephanie Garber",
-    genre: "romance",
+    genre: "romance, fantasy",
     image: 'caraval.jpeg'
   },
   {
@@ -68,7 +68,7 @@ let book = [{
     title: "Finale",
     price: "$11.99",
     author: "Stephanie Garber",
-    genre: "romance",
+    genre: "romance, fantasy",
     image: 'finale.jpeg'
   },
   {
@@ -76,7 +76,7 @@ let book = [{
     title: "Goose Girl",
     price: "$8.95",
     author: "Shannon Hale",
-    genre: "fantasy",
+    genre: "fantasy, romance",
     image: 'goose_girl.jpeg'
 
   },
@@ -85,7 +85,7 @@ let book = [{
     title: "Graceling",
     price: "$10.99",
     author: "Kristin Cashore",
-    genre: "romance",
+    genre: "romance, fantasy",
     image: 'graceling.jpeg'
   },
   {
@@ -117,7 +117,7 @@ let book = [{
     title: "Legendary",
     price: "$11.99",
     author: "Stephanie Garber",
-    genre: "romance",
+    genre: "romance, fantasy",
     image: 'legendary.jpeg'
   },
   {
@@ -296,7 +296,7 @@ let book = [{
     title: "The Guernsey Literary and Potato Peel Pie Society",
     price: "$17.99",
     author: "Annie Barrows and Mary Ann Shaffer",
-    genre: "historical fiction",
+    genre: "historical fiction, romance",
     image: 'potato_peel_pie_society.jpeg'
   },
   {
