@@ -5,7 +5,7 @@ The images of book covers  were not taken from Creative Commons as I could not f
 Also, regarding the functionality of the remove button on the cart page, please note that in this case it is intentional that it removes all of that book from the cart.
 
 ## Main changes from Creative Project 2:
-- All pages now loaded through Vue
+- All pages now loaded through Vue and use vue to more efficiently create page design
 - Removed entertainment page with API calls (to fit better on theme)
 - Updated Catalogue page to include more books
 - Added search by author and title, browse by genre options, and cart
